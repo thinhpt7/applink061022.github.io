@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "vn.fpt.healthcareapp",
+               "sha256_cert_fingerprints": ["45:15:94:9E:34:FB:57:F7:0D:22:CD:4C:F6:F4:9E:8F:8C:C4:46:79:70:7A:90:03:B1:46:9A:94:61:F7:4E:DE"] }
+}]
